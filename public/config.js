@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "fillx",
-  "VITE_ORDERLY_BROKER_NAME": "Fillx",
+  "VITE_ORDERLY_BROKER_NAME": "FillX",
   "VITE_BROKER_EOA_ADDRESS": "0x28e1d04cb3955122f19f05e9fb64e4eb040ce8e1",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "Fillx",
+  "VITE_APP_NAME": "FillX",
   "VITE_APP_DESCRIPTION": "Trade Perps Dex with Maker Rebates -0.02%. CEX Speed, DEX Security. 50x Leverage, Zero KYC.",
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
